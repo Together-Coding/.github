@@ -1,6 +1,6 @@
 # Together Coding
 
-[English](#together-coding) | [한국어](README.md)
+[English](#together-coding) ∙ [한국어](/profile/README.md)
 
 This project was a capstone project of the Department of Computer Science, and was carried out by [a2tt](https://github.com/a2tt), [boyfromthewell](https://github.com/boyfromthewell) and [chasw0326](https://github.com/chasw0326) from March 13 to June 15. *Together Coding* is a **Real-Time Code Sharing Service** for one-to-many coding classes.
 

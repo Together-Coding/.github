@@ -1,6 +1,6 @@
 # Together Coding
 
-[English](README_en.md) | [한국어](#together-coding)
+[English](/profile/README-en.md) ∙ [한국어](#together-coding)
 
 *투게더코딩*은 인하대학교 컴퓨터공학과 종합설계 수업에서 [a2tt](https://github.com/a2tt), [boyfromthewell](https://github.com/boyfromthewell), [chasw0326](https://github.com/chasw0326) 세 학생이 2022년 3월 13일부터 6월 15일까지 진행한, '일대다 코딩 수업을 위한 **실시간 코드 공유 서비스**' 프로젝트입니다.
 
